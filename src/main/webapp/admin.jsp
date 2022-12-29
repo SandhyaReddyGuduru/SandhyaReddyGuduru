@@ -15,5 +15,6 @@ welcome to admin page
 <a href="additem">AddItem</a><br></br>
 <a href="addImage?id=${pr.id}"target="_blank">AddImage</a><br></br>
 <a href="viewItems?id=${pr.id}"target="_blank">ViewItems</a><br></br>
+<!-- Sandhya -->
 </body>
 </html>
